@@ -386,8 +386,12 @@ p {
     height: 260px;
   }
   .word-with-lines-2{
-    font-size: 25px;
+    font-size: 30px;
   }
+  .card-header-1{
+    font-size: 20px;
+  }
+    
 }
 .contact-wa{
   position: fixed;
