@@ -218,6 +218,10 @@
   
   flex-wrap: wrap;
 }
+.partners-logo{
+  width: 80px;
+  height: 80px;
+}
 
 /* ////////////////////////////card css/////////////////////////////// */
 
@@ -361,6 +365,9 @@ p {
 @media all and (min-width: 150px) and (max-width: 750px) {
   .headers{
     display: none;
+  }
+    .partners-logo{
+    height: 60px;
   }
 }
 @media all and (min-width: 751px) and (max-width: 2500px) {
